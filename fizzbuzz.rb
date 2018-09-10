@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 require 'pry'
 
-def fizzbuzz
+def fizzbuzz(int)
   binding.pry
   
 end
